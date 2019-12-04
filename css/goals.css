@@ -1,0 +1,9 @@
+table#t01 th{background-color: #6BBAA7; color: #6C648B}
+table#t01{border-spacing: 0px; padding-left: 10%}
+table#t01 th,td,tr{padding: 5px;}
+#content p{
+	margin-bottom: 0px;
+}
+aside{
+	height: 390px;
+}
